@@ -3,6 +3,8 @@ Castle
 
 Terminal utils for happy scripting
 
+[![Build Status](https://travis-ci.org/andykog/castle.svg?branch=master)](https://travis-ci.org/andykog/castle)
+
 
 Installing
 ----------

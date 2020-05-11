@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "release": "node scripts/release",
+    "build": ":",
     "test": ":"
   },
   "repository": {
