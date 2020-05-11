@@ -35,13 +35,13 @@ const {prompt} = require('castle');
 prompt('Your name');
 ```
 
-![prompt](./assets/prompt.png)
+<img src="./assets/prompt.png" alt="prompt" width="114"/>
 
 ```js
 const name = await prompt('Your name', {defaultValue: 'Anonymous'});
 ```
 
-![prompt with default value](./assets/prompt_with_default.png)
+<img src="./assets/prompt_with_default.png" alt="prompt with default value" width="207"/>
 
 
 ### castle.confirm(message, options);
@@ -62,5 +62,4 @@ const {confirm} = require('castle');
 const isConfirmed = await confirm('Proceed?');
 ```
 
-![confirm](./assets/confirm.png)
-
+<img src="./assets/confirm.png" alt="confirm" width="173"/>
