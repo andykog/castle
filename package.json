@@ -1,0 +1,28 @@
+{
+  "name": "castle",
+  "version": "0.1.0",
+  "description": "Terminal utils for happy scripting",
+  "main": "src/index.js",
+  "scripts": {
+    "release": "node scripts/release",
+    "test": ":"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andykog/castle.git"
+  },
+  "keywords": [
+    "terminal",
+    "node",
+    "utils"
+  ],
+  "author": "Andy Kogut <mail@andykog.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andykog/castle/issues"
+  },
+  "homepage": "https://github.com/andykog/castle#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
